@@ -5,8 +5,8 @@
   "main": "producer.js",
   "scripts": {
     "produce": "node producer.js",
-    "consume": "node consumer.js"
-
+    "consume": "node consumer.js",
+    "consumergroup": "node consumer_group.js"
   },
   "keywords": [],
   "author": "",
